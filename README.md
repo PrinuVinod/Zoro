@@ -83,8 +83,8 @@ Three synthesized layers, no audio files:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Meghamittal0920/Zoro-King-of-hell.git
-cd Zoro-King-of-hell
+git clone https://github.com/PrinuVinod/Zoro.git
+cd Zoro
 ```
 
 Then serve it locally (any static server works):
