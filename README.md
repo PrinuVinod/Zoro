@@ -1,5 +1,7 @@
 # ⚔️ ZORO — King of Hell
 
+Just for fun.
+
 > *"Nothing happened."*
 
 A cinematic, scroll-driven fan page for **Roronoa Zoro** (One Piece) — built as a **single HTML file** with vanilla JavaScript, GSAP ScrollTrigger, and the Canvas API. No frameworks, no build step. Open it and scroll.
